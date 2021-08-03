@@ -1,1 +1,3 @@
 https://medium.com/analytics-vidhya/mlops-end-to-end-machine-learning-pipeline-cicd-1a7907698a8e
+https://www.kaggle.com/alaanagy/8-kinds-of-image-classification
+https://www.youtube.com/c/TechWorldwithNana/videos
